@@ -9,6 +9,10 @@ This project was created using [NestJS](https://github.com/nestjs/nest) CLI .
 - Clone this repository.
 - Create .env file in the root folder of the project follow the format of env.example located in the root folder.
 
+## Live Version of the Api
+
+(https://user-management-api-pjmedina.herokuapp.com/documentation#/)
+
 ## Installation
 
 ```bash
